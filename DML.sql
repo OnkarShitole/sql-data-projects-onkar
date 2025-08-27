@@ -2,5 +2,3 @@
 
 select * from emp;
 select * from department;
-select * from orders;
-select * from cards;
